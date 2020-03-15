@@ -1,6 +1,9 @@
 # XLSX Terminal interface
 <p>Create, add data to, and remove XLSX files. All from the comfort of your terminal. Created for fun, not practicality.</p>
 
+# Required Modules:
+* openpyxl (`pip install openpyxl`)
+
 # Usage:
 in your terminal, go to the app's folder. then run `python3 xlsx_terminal.py [option]`
 
