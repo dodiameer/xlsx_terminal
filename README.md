@@ -13,7 +13,7 @@ To create a new file, run: <br>
 
 <h3>Adding data to files:</h3>
 To add data to an existing file, run: <br>
-`python3 xlsx_terminal.py add [filename.xlsx] [row number] [data1] [data2]` <br><br>
+`python3 xlsx_terminal.py add [filename.xlsx] [row number] [data1] [data2] ...` <br><br>
 For example: <br>
 `python3 xlsx_terminal.py example.xlsx 1 Name Address Phone` <br> 
 Would add "Name", "Address", "Phone" in order to the first cell in row 1 <br> <br>
