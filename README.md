@@ -1,5 +1,5 @@
 # XLSX Terminal interface
-<p>Create, add data to, and remove XLSX files. All from the comfort of your terminal.</p>
+<p>Create, add data to, and remove XLSX files. All from the comfort of your terminal. Created for fun, not practicality.</p>
 
 # Usage:
 in your terminal, go to the app's folder. then run `python3 xlsx_terminal.py [option]`
@@ -21,4 +21,4 @@ for example: "First Name"
 <h3>Removing a row:</h3>
 In order to remove a row, run: <br>
 `python3 xlsx_terminal.py [filename.xlsx] [row number]` <br><br>
-Note that this will remove ALL the data in the specified row.
+Note that this will remove ALL the data in the specified row. 
