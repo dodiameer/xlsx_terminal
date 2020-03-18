@@ -19,3 +19,6 @@ for example: "First Name"
 # Removing a row:
 In order to remove a row, run: `python3 xlsx_terminal.py remove [filename.xlsx] [row number]` <br>
 Note that this will remove ALL the data in the specified row. 
+
+# Deleting a file:
+If you want to delete a file, run: `python3 xlsx_terminal.py delete [filename.xlsx]`
