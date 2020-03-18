@@ -24,7 +24,5 @@ if len(sys.argv) > 1: #Check if input contained options
     if sys.argv[1] == "delete":
         remove(sys.argv[2])
         print('File Removed')
-    else: #Print error if option is invalid
-        print('Error: Invalid Option!')
 else: #Print error if no options were put in by user
     print('Please input an option and try again!')
