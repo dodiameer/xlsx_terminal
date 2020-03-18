@@ -17,5 +17,5 @@ To add data to an existing file, run: `python3 xlsx_terminal.py add [filename.xl
 for example: "First Name"
 
 # Removing a row:
-In order to remove a row, run: `python3 xlsx_terminal.py [filename.xlsx] [row number]`
+In order to remove a row, run: `python3 xlsx_terminal.py remove [filename.xlsx] [row number]` <br>
 Note that this will remove ALL the data in the specified row. 
